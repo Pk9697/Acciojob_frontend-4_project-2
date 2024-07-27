@@ -1,5 +1,11 @@
+import SignIn from "./pages/SignIn"
+
 function App() {
-	return <>App</>
+	return (
+		<>
+			<SignIn />
+		</>
+	)
 }
 
 export default App
